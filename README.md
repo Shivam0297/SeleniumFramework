@@ -1,2 +1,2 @@
 # SeleniumFramework
-An automation framework leveraging Selenium in Java, incorporating TestNG and Maven repository concepts, Page object model concepts, and generating Extent Reports.
+An automation framework utilizing Selenium in Java, integrating TestNG, Maven repository concepts, and Page Object Model principles, and generating Extent Reports.
